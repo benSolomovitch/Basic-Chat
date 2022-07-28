@@ -1,0 +1,11 @@
+
+Welcome to the world of the client!
+Here you can chat with the server in form of echo
+and also perform the following special functions:
+* By entering END you can end the server operation if
+you are allowed to do so.
+* By entering GRAPH you can send a function (USING 
+ONLY X AS PARAMETER) to the server and it will return
+the function graph.
+*By entering QUIZ you will get a trivia question.
+*By entring TIME you will get the server time.
